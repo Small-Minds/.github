@@ -1,9 +1,11 @@
 
 ![image](https://user-images.githubusercontent.com/28709508/154759157-e0366511-260a-40b6-a049-8cdc9d151b31.png)
 
-Small Minds (Ryan Fleck, Mengxuan Chen,) is a team of uOttawa Computer Engineers, primarily known for the _Democracy_ voting app.
+Small Minds ([Ryan Fleck](https://github.com/RyanFleck), [Mengxuan Chen](https://github.com/MengxuanChen),) is a team of uOttawa Computer Engineers. SM is primarily known for the _Democracy_ voting app originally built for IEEE uOttawa's 2021 elections, but has since been used for many elections by other engineering faculty organizations.
 
-## [Democracy Web App](https://github.com/Small-Minds/Democracy-PWA-V3)
+_Democracy_ is open source and split into two repositories:
+
+## 1: [Democracy Web App](https://github.com/Small-Minds/Democracy-PWA-V3)
 
 ![CI](https://github.com/Small-Minds/Democracy-PWA-V3/workflows/CI/badge.svg?branch=master)
 ![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/Small-Minds/Democracy-PWA-V3)
@@ -12,7 +14,7 @@ Small Minds (Ryan Fleck, Mengxuan Chen,) is a team of uOttawa Computer Engineers
 
 A React/RSuite frontend for Democracy.
 
-## [Democracy Backend](https://github.com/Small-Minds/Democracy-BE-V3)
+## 2: [Democracy Backend](https://github.com/Small-Minds/Democracy-BE-V3)
 
 [![CI](https://github.com/Small-Minds/Democracy-BE-V3/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/Small-Minds/Democracy-BE-V3/actions/workflows/ci.yml)
 [![Updates](https://pyup.io/repos/github/Small-Minds/Democracy-BE-V3/shield.svg)](https://pyup.io/repos/github/Small-Minds/Democracy-BE-V3/)
