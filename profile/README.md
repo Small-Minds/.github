@@ -1,5 +1,6 @@
 
-![image](https://user-images.githubusercontent.com/28709508/154759157-e0366511-260a-40b6-a049-8cdc9d151b31.png)
+![image](https://user-images.githubusercontent.com/28709508/154772792-be212867-3604-449b-bc8a-4336ca15e58d.png)
+
 
 Small Minds ([Ryan Fleck](https://github.com/RyanFleck), [Mengxuan Chen](https://github.com/MengxuanChen),) is a team of uOttawa Computer Engineers. SM is primarily known for the _Democracy_ voting app originally built for IEEE uOttawa's 2021 elections, but has since been used for many elections by other engineering faculty organizations.
 
